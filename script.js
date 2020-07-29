@@ -263,7 +263,7 @@ mediumBtn.addEventListener('click',function medium()
 
 hardBtn.addEventListener('click',function hard()
 {
-  ball.speed = '10';
+  ball.speed = '8';
   easyBtn.style.background = '#000';
   easyBtn.style.color ='#fff';
   mediumBtn.style.background = '#000';
